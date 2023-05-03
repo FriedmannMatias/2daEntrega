@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #1a1a1c;
+    color: white;
+ }
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar {
+    color:#1a1a1c;
+    background-color: #3d3f40 !important;
+}
+
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+ul {
+    display: flex;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 24px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+.categorias {
+    display: flex;
+}
